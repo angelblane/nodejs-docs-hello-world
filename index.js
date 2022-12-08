@@ -3,7 +3,7 @@
 // https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/7-bank-project/api
 // ***************************************************************************
 
-response.end("THANK YOU NET42");
+response.end("DOCKER");
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors')
